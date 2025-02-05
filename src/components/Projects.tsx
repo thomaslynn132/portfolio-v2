@@ -65,7 +65,7 @@ const projects = [
     github: "https://github.com/thomaslynn132/todolistapp",
   },
   {
-    name: "My Portfolio",
+    name: "My Portfolio V1",
     img: Portfolio,
     description:
       "Personal portfolio website to showcase projects and experience.",
