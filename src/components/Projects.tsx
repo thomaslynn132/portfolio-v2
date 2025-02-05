@@ -1,4 +1,3 @@
-import React from "react";
 import { motion } from "framer-motion";
 import { Github, ExternalLink } from "lucide-react";
 import {
@@ -71,7 +70,7 @@ const projects = [
     description:
       "Personal portfolio website to showcase projects and experience.",
     tech: ["React", "Framer Motion", "CSS"],
-    demo: undefined,
+    demo: "https://portfolio-v2-sage-nine.vercel.app/",
     github: "https://github.com/thomaslynn132/portfolio",
   },
   {
