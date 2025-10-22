@@ -3,7 +3,6 @@ import { Github, ExternalLink } from "lucide-react";
 import {
   englishGrammar,
   homePage,
-  alyMyanmar,
   ToDoList,
   Portfolio,
   PiVaping,
@@ -46,14 +45,6 @@ const projects = [
     tech: ["React", "Firebase", "Tailwind CSS"],
     demo: "https://learn-english-with-thomas132.web.app/",
     github: "https://github.com/thomaslynn132/EnglishGrammar",
-  },
-  {
-    name: "ALY Myanmar Website",
-    img: alyMyanmar,
-    description: "Corporate website with modern design and responsive layout.",
-    tech: ["React", "Bootstrap", "Framer Motion"],
-    demo: "https://aly-myanmar.vercel.app/",
-    github: undefined,
   },
   {
     name: "My Todo App",
