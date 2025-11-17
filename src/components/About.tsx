@@ -86,8 +86,9 @@ const About = () => {
                 <motion.a
                   whileHover={{ scale: 1.1 }}
                   whileTap={{ scale: 0.9 }}
-                  href="https://drive.google.com/file/d/1mpRhANq6k-9Fl8V0AM2N-iYrYHNKEdjS/view?usp=drive_link"
+                  href="https://drive.google.com/file/d/11yCcHfVFJIRLuAJrz_CglEzEKXiarY5w/view?usp=sharing"
                   download
+                  target="_blank"
                   className="flex items-center gap-2 px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors">
                   {/* <Download className="w-4 h-4" /> */}
                   Resume
