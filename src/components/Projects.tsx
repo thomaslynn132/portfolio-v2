@@ -19,7 +19,7 @@ const projects = [
     img: boilerPlate,
     description:
       "A boilerplate for my next web app. Built with Next, Tailwind CSS, Shadcn UI. To reuse reusable components.",
-    tech: ["Next", "Shadcn UI", "Tailwind CSS"],
+    tech: ["Next", "Shadcn UI", "Tailwind CSS", "Tanstack Query"],
     demo: "https://boilerplate-setup.vercel.app/en",
     github: "https://github.com/thomaslynn132/setup",
   },
@@ -27,7 +27,7 @@ const projects = [
     name: "Pokemon",
     img: pokemon,
     description:
-      "A simple pokemon app. Built with Next, Tailwind CSS, Shadcn UI. To reuse reusable components.",
+      "A simple pokemon app. Built with Next, Tailwind CSS, Shadcn UI.",
     tech: [
       "Next",
       "Shadcn UI",
