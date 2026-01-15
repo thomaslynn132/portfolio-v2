@@ -13,8 +13,10 @@ import Books from "./Books.png";
 import ShalKyi from "./ShalKyi.png";
 import tapNumberGame from "./tapNumberGame.png";
 import boilerPlate from "./BoilerPlate.png";
+import pokemon from "./pokemon.png";
 
 export {
+  pokemon,
   myPhoto2,
   boilerPlate,
   ShalKyi,

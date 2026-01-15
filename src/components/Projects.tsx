@@ -10,6 +10,7 @@ import {
   ShalKyi,
   tapNumberGame,
   boilerPlate,
+  pokemon,
 } from "../assets/index";
 
 const projects = [
@@ -21,6 +22,22 @@ const projects = [
     tech: ["Next", "Shadcn UI", "Tailwind CSS"],
     demo: "https://boilerplate-setup.vercel.app/en",
     github: "https://github.com/thomaslynn132/setup",
+  },
+  {
+    name: "Pokemon",
+    img: pokemon,
+    description:
+      "A simple pokemon app. Built with Next, Tailwind CSS, Shadcn UI. To reuse reusable components.",
+    tech: [
+      "Next",
+      "Shadcn UI",
+      "Tailwind CSS",
+      "Firebase Auth",
+      "RTK Query",
+      "RTK Toolkit",
+    ],
+    demo: "https://pokemon-mu-woad.vercel.app",
+    github: "https://github.com/thomaslynn132/pokemon",
   },
   {
     name: "Tap Number Game",
