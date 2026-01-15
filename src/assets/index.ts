@@ -12,8 +12,11 @@ import PiVaping from "./PiVaping.png";
 import Books from "./Books.png";
 import ShalKyi from "./ShalKyi.png";
 import tapNumberGame from "./tapNumberGame.png";
+import boilerPlate from "./BoilerPlate.png";
+
 export {
   myPhoto2,
+  boilerPlate,
   ShalKyi,
   tapNumberGame,
   Books,

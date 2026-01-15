@@ -9,9 +9,19 @@ import {
   Books,
   ShalKyi,
   tapNumberGame,
+  boilerPlate,
 } from "../assets/index";
 
 const projects = [
+  {
+    name: "Boiler Plate",
+    img: boilerPlate,
+    description:
+      "A boilerplate for my next web app. Built with Next, Tailwind CSS, Shadcn UI. To reuse reusable components.",
+    tech: ["Next", "Shadcn UI", "Tailwind CSS"],
+    demo: "https://boilerplate-setup.vercel.app/en",
+    github: "https://github.com/thomaslynn132/setup",
+  },
   {
     name: "Tap Number Game",
     img: tapNumberGame,
