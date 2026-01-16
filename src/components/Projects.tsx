@@ -34,7 +34,7 @@ const projects = [
       "Tailwind CSS",
       "Firebase Auth",
       "RTK Query",
-      "RTK Toolkit",
+      "RTK",
     ],
     demo: "https://pokemon-mu-woad.vercel.app",
     github: "https://github.com/thomaslynn132/pokemon",
