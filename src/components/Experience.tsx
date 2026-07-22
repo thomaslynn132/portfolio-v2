@@ -4,9 +4,26 @@ import { Calendar, Briefcase } from 'lucide-react';
 
 const experiences = [
   {
+    
+    company: 'Global Technology Group',
+    position: 'Senior Frontend Developer',
+    period: 'May 2026 - Present',
+    description: [],
+  },
+  {
+     company: 'Passion Geek',
+    position: 'Frontend Developer',
+    period: 'March 2025 - May 2026',
+    description: [
+      'Implemented code standards that improved productivity of the team.',
+      'Improved SEO performance of the company website by 35%. Integrated multi-language content management for admin panels, HRMS system andother foundation admin panels for freshmoe.com.',
+      'Developed and maintained 7 production-level admin panels(Human Resource Management System, Digital Marketing System, etc.), 3 production-level user panels, and 3 production-level public landing projects.'
+    ],
+  },
+  {
     company: 'OBS Myanmar',
     position: 'Frontend Developer',
-    period: 'Sept 2024 - Present',
+    period: 'Sept 2024 - March 2025',
     description: [
       'Developing modern UI components with React JS and Tailwind CSS',
       'Integrating frontend with backend APIs',
